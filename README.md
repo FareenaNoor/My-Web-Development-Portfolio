@@ -1,2 +1,2 @@
-# My-Web-Development-Portfolio
-This repository features projects built with HTML, CSS, JavaScript, and React. It showcases my skills in structure and styling, interactive elements, and dynamic user interfaces.
+# Random Quotation Genrator 
+Front-End Development: Building the user interface with HTML and styling it with CSS. JavaScript Fundamentals: Implementing logic to fetch and display random quotes using JavaScript. API Integration: Successfully integrating with an external API to access quote data.
